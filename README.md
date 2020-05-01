@@ -18,3 +18,40 @@ How Projects work?
 Project contains admin panel and for  users panel.
 before entering one should enter admin name and password
 one can perform varipus functions then like view books, add books,view issued books,reurn book
+
+
+![](lib.png)
+
+![](lib2.png)
+
+![](lib3.png)
+
+
+![](lib4.png)
+
+![](lib5.png)
+
+![](lib6.png)
+
+![](lib7.png)
+
+![](lib8.png)
+
+Class diagram:
+![](lib8.png)
+
+
+Dataflow diagram:
+![](lib4.jpg)
+
+
+Activity digram:
+![](lib5.png)
+
+
+ER diagram:
+![](lib6.png)
+
+
+Sequential diagram:
+![](lib7.jpg)
