@@ -38,20 +38,20 @@ one can perform varipus functions then like view books, add books,view issued bo
 ![](lib8.png)
 
 Class diagram:
-![](lib8.png)
+![](pic8.png)
 
 
 Dataflow diagram:
-![](lib4.jpg)
+![](pic4.jpg)
 
 
 Activity digram:
-![](lib5.png)
+![](pic5.png)
 
 
 ER diagram:
-![](lib6.png)
+![](pic6.png)
 
 
 Sequential diagram:
-![](lib7.jpg)
+![](pic7.jpg)
